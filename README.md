@@ -1,0 +1,2 @@
+# 🫚 Gember Cache: PSR SimpleCache (PSR-16)
+Gember Cache ([gember/event-sourcing](https://github.com/GemberPHP/event-sourcing)) implementation based on [psr/simple-cache](https://github.com/php-fig/simple-cache) (PSR-16).
