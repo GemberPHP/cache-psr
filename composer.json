@@ -1,6 +1,6 @@
 {
     "name": "gember/cache-psr",
-    "description": "Gember Cache (gember/event-sourcing) implementation based on psr/simple-cache (PSR-16)",
+    "description": "Gember Event Sourcing Cache adapter based on psr/simple-cache (PSR-16)",
     "license": "MIT",
     "type": "library",
     "keywords": [
