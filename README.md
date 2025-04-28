@@ -1,4 +1,7 @@
 # 🫚 Gember Cache: PSR SimpleCache (PSR-16)
+[![Build Status](https://scrutinizer-ci.com/g/GemberPHP/cache-psr/badges/build.png?b=main)](https://github.com/GemberPHP/cache-psr/actions)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/GemberPHP/cache-psr.svg?style=flat)](https://scrutinizer-ci.com/g/GemberPHP/cache-psr/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/GemberPHP/cache-psr.svg?style=flat)](https://scrutinizer-ci.com/g/GemberPHP/cache-psr)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.3-8892BF.svg?style=flat)](http://www.php.net)
 
